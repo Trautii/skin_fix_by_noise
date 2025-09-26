@@ -1,5 +1,5 @@
 # skin_fix_by_noise
-Real Skin Post – ComfyUI Custom Node
+Real Skin Post – **ComfyUI Custom Node**
 
 
 
